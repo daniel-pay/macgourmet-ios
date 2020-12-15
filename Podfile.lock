@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.8.2)
+  - GRDB.swift (4.14.0):
+    - GRDB.swift/standard (= 4.14.0)
+  - GRDB.swift/standard (4.14.0)
+  - SwiftyDropbox (5.1.0):
+    - Alamofire (~> 4.8.2)
+
+DEPENDENCIES:
+  - GRDB.swift
+  - SwiftyDropbox
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GRDB.swift
+    - SwiftyDropbox
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  GRDB.swift: 8cc3ab7c8b8b4ac1761deb8dca4b51c1c9d429f8
+  SwiftyDropbox: 7ca4961e0340c62c8d6d1ece91d67badfe4c0380
+
+PODFILE CHECKSUM: 09953bb3b9b864f659b9108efedb2d432a277c42
+
+COCOAPODS: 1.9.3
